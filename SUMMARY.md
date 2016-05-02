@@ -4,5 +4,5 @@
 * [Introduction](documentation/Introduction.md)
 * [Intel IDEs](documentation/IntelIDEs.md)
    * [Intel® XDK](documentation/IntelXdk.md)
-   * Tbd
+   * Intel® System Studio IoT Edition
 
