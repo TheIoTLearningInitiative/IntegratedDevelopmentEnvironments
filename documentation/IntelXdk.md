@@ -1,10 +1,7 @@
 Intel® XDK
 ==
 
-> Easy Path to HTML5 App Development, Fast Path to Multi-OS App Stores
-> - Integrated development workflow from design to app stores
-> - Built-in design, debug, and build tools, plus 100's of Cordova APIs
-> - Easier build, faster deployment - write for one, publish to all multi-OS app stores
+> With the Intel® XDK IoT Edition and Node.js*, you can create web interfaces, add sensors to your project, and work with the cloud. The Intel® XDK IoT Edition comes with companion templates to get your project up and running quickly, and is also compatible with Intel® IoT Gateways.
 
 - [Intel® XDK](https://software.intel.com/en-us/intel-xdk)
 
