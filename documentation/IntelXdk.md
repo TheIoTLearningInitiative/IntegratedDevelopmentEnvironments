@@ -5,4 +5,3 @@ Intel® XDK
 
 - [Intel® XDK](https://software.intel.com/en-us/intel-xdk)
 - [18 new how-to Intel IoT code samples](https://software.intel.com/en-us/blogs/2015/11/04/announcing-18-new-how-to-intel-iot-code-samples)
-
